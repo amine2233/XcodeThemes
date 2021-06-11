@@ -7,3 +7,6 @@ included:
 excluded:
   - .build/
   - build/
+
+disabled_rules:
+  - trailing_comma
